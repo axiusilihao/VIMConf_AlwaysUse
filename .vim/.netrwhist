@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home3/alex/platypus'
+let g:netrw_dirhist_2='/home3/alex/platypus/cdi'
+let g:netrw_dirhist_3='/home3/alex/platypus/cdi/logical'
+let g:netrw_dirhist_4='/home3/alex/platypus/cdi/logical/common-power-ctrl'
+let g:netrw_dirhist_5='/home3/alex/platypus'
+let g:netrw_dirhist_6='/home3/alex/platypus/cdi'
+let g:netrw_dirhist_7='/home3/alex/platypus/cdi/policy'
+let g:netrw_dirhist_8='/home3/alex/platypus/cdi/policy/led'
